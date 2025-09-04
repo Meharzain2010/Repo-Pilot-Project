@@ -4,9 +4,10 @@
 It's a web app built with Next.js and React. 
 It ingests repositories, maps dependencies, and visualizes the development flow to highlight integration gaps and develop an action plan.
 
-<br>
+
 <video src='https://github.com/user-attachments/assets/46a9c589-bf2b-4f32-8ef3-13046b2ede34'></video>
 <br>
+<br>![Thumbnail](https://github.com/user-attachments/assets/e50aa530-2758-4983-bddb-9901d30566d3)
 
 <!--![Thumbnail](https://github.com/user-attachments/assets/faaf13e7-c221-4249-83a2-d0936fd49e40)-->
 REPOment is a tool that helps you manage, navigate, and automate repositories effectively.. 
