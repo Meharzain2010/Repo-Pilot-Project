@@ -6,7 +6,7 @@ It ingests repositories, maps dependencies, and visualizes the development flow 
 
 <br>![Thumbnail](https://github.com/user-attachments/assets/e50aa530-2758-4983-bddb-9901d30566d3)
 
-<video src='https://github.com/user-attachments/assets/46a9c589-bf2b-4f32-8ef3-13046b2ede34'></video>
+<video src='https://github.com/user-attachments/assets/46a9c589-bf2b-4f32-8ef3-13046b2ede34'>Demo Video</video>
 <br>
 
 <!--![Thumbnail](https://github.com/user-attachments/assets/faaf13e7-c221-4249-83a2-d0936fd49e40)-->
